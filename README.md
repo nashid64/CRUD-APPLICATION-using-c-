@@ -199,6 +199,11 @@ Below is a screenshot of the application interface showing the CRUD operation fu
 2. **Set Up the Database**: Configure your SQL Server database and modify the connection settings as specified in the `script.sql` file.
 3. **Build the Project**: Launch the project in Visual Studio and compile the solution.
 4. **Run the Application**: After compiling, execute the application to manage records using the Windows Forms interface.
+### Click the image below to watch:
+[![Watch the video](https://img.youtube.com/vi/UTMev5RCUh0/0.jpg)](https://www.youtube.com/watch?v=UTMev5RCUh0)
+
+
+
 
 
 
