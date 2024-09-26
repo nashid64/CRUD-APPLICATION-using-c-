@@ -192,13 +192,13 @@ Below is a screenshot of the application interface showing the CRUD operation fu
     Open the project in Visual Studio, build it, and run the application.
 
 ## How to Run the Project
-1. **Clone the Repository**: Clone this repository to your local machine.
+1. **Clone the Repository**: Download this repository to your local machine..
    ```bash
-   git clone https://github.com/maharin-afroj/student-information
+   git clone https://github.com/nashid64/CRUD-APPLICATION-using-c-.git
    ```
-2. **Set Up the Database**: Configure your SQL Server or SQLite database and update the connection according to the `script.sql` file.
-3. **Build the Project**: Open the project in Visual Studio and build the solution.
-4. **Run the Application**: Once built, run the application and manage records through the Windows Forms interface.
+2. **Set Up the Database**: Configure your SQL Server database and modify the connection settings as specified in the `script.sql` file.
+3. **Build the Project**: Launch the project in Visual Studio and compile the solution.
+4. **Run the Application**: After compiling, execute the application to manage records using the Windows Forms interface.
 
 
 
